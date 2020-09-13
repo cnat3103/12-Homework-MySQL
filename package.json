@@ -1,0 +1,23 @@
+{
+  "name": "12-homework-mysql",
+  "version": "1.0.0",
+  "description": "CLI CMS designed for User to manage departments, roles and employees within User business.",
+  "main": "employeeTracker.js",
+  "scripts": {
+    "test": "NA"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnat3103/12-Homework-MySQL.git"
+  },
+  "author": "cnat3103",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cnat3103/12-Homework-MySQL/issues"
+  },
+  "homepage": "https://github.com/cnat3103/12-Homework-MySQL#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  }
+}
