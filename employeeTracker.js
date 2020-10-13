@@ -71,6 +71,8 @@ async function runSearch() {
     case "UPDATE_EMPLOYEE_ROLE":
       return updateRole();   
 
+    case "QUIT":
+      return quit();
       
   }
 }
@@ -251,5 +253,5 @@ async function updateRole() {
 
 
 function quit() {
-  console.log("Thank you. You have finished with the application")
+  console.log("Thank you. You have finished with the application. Please enter control c to terminate the application")
 }
