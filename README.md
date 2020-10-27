@@ -4,7 +4,7 @@
 A demo video is available [here](https://drive.google.com/file/d/1i59g93UDOAxaU7KLnhPdnLjrPycRbgoR/view)
 
 ## Preview
-[Here](Preview.png)
+![Preview](Preview.png)
 
 ## Badges
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
