@@ -4,7 +4,7 @@
 A demo video is available [here](https://drive.google.com/file/d/1i59g93UDOAxaU7KLnhPdnLjrPycRbgoR/view)
 
 ## Preview
-(Preview.png)
+[Here](Preview.png)
 
 ## Badges
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -45,9 +45,9 @@ The design and content of the application is derived from a review of material p
 ## Collaborators
 There are many ways in which you can participate in the project, for example:
 
-    - Submit bugs and feature requests, and help us verify as they are checked in
-    - Review source code changes
-    - Review the documentation and make pull requests for anything from typos to new content
+- Submit bugs and feature requests, and help us verify as they are checked in
+- Review source code changes
+- Review the documentation and make pull requests for anything from typos to new content
 
 ## Questions
 Email: christopher.j.natale@gmail.com.
